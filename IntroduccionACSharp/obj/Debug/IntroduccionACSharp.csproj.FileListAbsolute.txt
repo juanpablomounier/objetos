@@ -1,0 +1,6 @@
+c:\users\jjuan\documents\visual studio 2015\Projects\IntroduccionACSharp\IntroduccionACSharp\bin\Debug\IntroduccionACSharp.exe.config
+c:\users\jjuan\documents\visual studio 2015\Projects\IntroduccionACSharp\IntroduccionACSharp\bin\Debug\IntroduccionACSharp.exe
+c:\users\jjuan\documents\visual studio 2015\Projects\IntroduccionACSharp\IntroduccionACSharp\bin\Debug\IntroduccionACSharp.pdb
+c:\users\jjuan\documents\visual studio 2015\Projects\IntroduccionACSharp\IntroduccionACSharp\obj\Debug\IntroduccionACSharp.csprojResolveAssemblyReference.cache
+c:\users\jjuan\documents\visual studio 2015\Projects\IntroduccionACSharp\IntroduccionACSharp\obj\Debug\IntroduccionACSharp.exe
+c:\users\jjuan\documents\visual studio 2015\Projects\IntroduccionACSharp\IntroduccionACSharp\obj\Debug\IntroduccionACSharp.pdb
